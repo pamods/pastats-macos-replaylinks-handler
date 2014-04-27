@@ -1,7 +1,6 @@
-pastats-macos-replaylinks-handler
-=================================
 
-Make replay links on PA-Stats work on Mac OSX
+Make PA-Stats replay links work on Mac OSX !
+=================================
 
 Drop the startpa.app in the /Applications folder, it will register and handle the startpa:// protocol.
 
