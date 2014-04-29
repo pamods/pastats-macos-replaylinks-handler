@@ -1,8 +1,7 @@
-
 Make PA-Stats replay links work on Mac OSX !
 =================================
 
-Drop the startpa.app in the /Applications folder, it will register and handle the startpa:// protocol.
+[Download](https://github.com/pamods/pastats-macos-replaylinks-handler/releases/download/v1.0.0/startpa.app.zip) and drop the startpa.app in the /Applications folder, it will register and handle the startpa:// protocol.
 
 This has only been tested on OSX 10.9 (Mavericks), but Uberent recommends this version for running PA.
 
